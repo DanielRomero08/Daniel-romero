@@ -1,6 +1,6 @@
 Tienda Virtual de Mascotas (PetShop)
 =============
-- Este proyecto está basado en los springs presentados por el profesor #########
+- Este proyecto está basado en los springs presentados por el Docente
 - El mockup del proyecto se realizó en [Figma]([(https://www.figma.com/](https://www.figma.com/) "Figma")
 - **Periodo :** Mayo 2024
 > Proyecto para fin de programa, se usó HTML, CSS y JS
