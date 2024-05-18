@@ -51,7 +51,4 @@ Aquí podrás contactar en caso tener alguna pregunta al respecto.
 ![](https://raw.githubusercontent.com/sgcm14/Tienda-Virtual/master/doc/contacto.png)
 > Pantalla de **Contacto**
 
-**Realizado por :** #################
-
-<img src = "assets/img/images.jpg" width= "400">
 
